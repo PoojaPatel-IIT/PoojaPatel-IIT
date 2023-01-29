@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on creating my profile ...
+
+Thank you for taking the time to checkout my profile!
+
 <!--
 **PoojaPatel-IIT/PoojaPatel-IIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
