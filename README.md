@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on creating my profile ...
+- 🌱 I’m currently learning devops
+- 💬 Ask me about ...
 
 Thank you for taking the time to checkout my profile!
 
