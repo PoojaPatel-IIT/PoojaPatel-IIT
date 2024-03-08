@@ -37,7 +37,7 @@
  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## Certification 🎓
-
+-  [CKA](https://www.credly.com/badges/d9ba4f60-4ba7-4e7d-99e1-3bd35eb4291c/public_url) <br>
 - [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/f674dd5a-16e7-4359-a9a8-7dda3fd506c5/public_url) <br> <br>
 
 
